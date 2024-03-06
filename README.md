@@ -8,6 +8,7 @@
 ---
 # Tips
 💡 On the left you will find a scroll bar with the documentation of each subject I have studied until now
+
 💡 You can change to the dark theme
 ---
 Enjoy!!
